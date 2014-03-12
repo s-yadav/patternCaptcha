@@ -1,35 +1,35 @@
 {
-  "name": "patterncaptcha",
-  "description": "",
-  "main": "./patternCaptcha",
-  "author": {
-    "name": "Sudhanshu Yadav",
-    "email": "sudhanshuyadav2@gmail.com"
-  },
-  "version": "0.1.0",
-  "dependencies": {
-	"canvas":"1.1.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/s-yadav/patternCaptcha"
-  },
-  "licenses": [
-    {
-      "type": "MIT"
+    "name": "patterncaptcha",
+    "description": "Android like pattern matching captcha system for your node webapps.",
+    "main": "./patternCaptcha",
+    "author": {
+        "name": "Sudhanshu Yadav",
+        "email": "sudhanshuyadav2@gmail.com"
     },
-    {
-      "type": "GPL"
-    }
-  ],
-  "bugs": {
-    "url": "https://github.com/s-yadav/patternCaptcha/issues"
-  },
-  "keywords": [
-    "pattern",
-	"lock",
-    "captcha"
-  ],
-  "readmeFilename": "README.md",
-  "homepage": "http://ignitersworld.com/lab/patternCaptcha.html",
+    "version": "0.1.0",
+    "dependencies": {
+        "canvas": "1.1.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/s-yadav/patternCaptcha"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+        },
+        {
+            "type": "GPL"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/s-yadav/patternCaptcha/issues"
+    },
+    "keywords": [
+        "pattern",
+        "lock",
+        "captcha"
+    ],
+    "readmeFilename": "README.md",
+    "homepage": "http://ignitersworld.com/lab/patternCaptcha.html"
 }
