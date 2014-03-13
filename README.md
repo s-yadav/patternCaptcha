@@ -1,7 +1,7 @@
 patternCaptcha
 ==============
 
-A pattern matching captcha system for your node webapps. It comes with style with android like pattern capturing scheme and provide secure captcha by distroting, randomizing color, matrix and pattern, which makes it hard for bots to extract pattern sequence from it.
+A pattern matching captcha system for your node webapps. It comes with style with android like pattern capturing scheme and provide secure captcha by distorting, randomizing color, matrix and pattern, which makes it hard for bots to extract pattern sequence from it.
 
 <strong>Installation</strong>
 
