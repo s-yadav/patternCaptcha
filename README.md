@@ -15,4 +15,4 @@ npm install pattern captcha
 
 <strong><a href="">patternLock:</a></strong> A UI android style pattern lock plugin to capture pattern from user.
 
-See example and complete documentation over <strong><a href="http://ignitersworld.com/lab/patternCaptcha.html">http://ignitersworld.com/lab/patternCaptcha.html</a></strong>
+</strong>
